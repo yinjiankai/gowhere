@@ -1,0 +1,331 @@
+{
+	"hashMap": {
+		"data": {
+			"moreLink": "http://piao.qunar.com/daytrip/list.htm?in_track=qunar_tjyry",
+			"list": {
+				"primary": [
+					{
+						"url": "http://piao.qunar.com/daytrip/detail_355273.html#from=home_remen&in_track=qunar_tjyry",
+						"img": "https://imgs.qunarzz.com/piao/fusion/1711/94/3506c23cf7cce302.jpg",
+						"title": "含往返飞机票+4晚住宿",
+						"words": "郑州-三亚",
+						"desc": "5天跟团游",
+						"nowPrice": "2590",
+						"sightId": "6453",
+						"ticketTypeId": "355273",
+						"productId": "3655635917"
+					}
+				],
+				
+				"dachuang":[
+
+					{
+						"url": "http://piao.qunar.com/daytrip/detail_355273.html#from=home_remen&in_track=qunar_tjyry",
+						"img": "https://img1.qunarzz.com/des-mis/ad/1706/ef/d591e9a0ac403d.jpg",
+						"title": "含往返飞机票+4晚住宿",
+						"words": "郑州-三亚",
+						"desc": "5天跟团游",
+						"nowPrice": "2590",
+						"sightId": "6453",
+						"ticketTypeId": "355273",
+						"productId": "3655635917"
+					}
+				
+				],
+				
+				"secondary": [
+									{
+						"url": "https://imgs.qunarzz.com/p/tts0/1708/97/03420694386d5402.jpg_r_390x260x90_733bcdd6.jpg",
+						"img": "https://imgs.qunarzz.com/p/p58/201302/28/8db08d342fdbb13c93835fbb.jpg_256x160_96f65102.jpg",
+						"title": "含往返飞机票+4晚住宿",
+						"words": "郑州-三亚",
+						"desc": "5天跟团游",
+						"nowPrice": "2590",
+						"sightId": "https://imgs.qunarzz.com/p/tts1/1709/ef/4e18acb36a044802.jpg_r_390x260x90_83f1f14e.jpg",
+						"ticketTypeId": "https://imgs.qunarzz.com/p/tts4/1708/18/7123f217c6bddc02.jpg_r_390x260x90_c55597ee.jpg",
+						"num4":"https://imgs.qunarzz.com/p/tts5/1708/ed/49a9972a2351e402.jpg_r_390x260x90_414fa603.jpg",
+						"productId": "3655635917"
+					},
+					{
+						"url": "https://imgs.qunarzz.com/p/tts2/1612/94/6a8994db845d5702.jpg_r_390x260x90_1a51cd9c.jpg",
+						"img": "https://imgs.qunarzz.com/p/p29/201302/28/3d20251a1b60350a93835fbb.jpg_256x160_e8f468b0.jpg",
+						"title": "含往返邮轮票+6晚住宿",
+						"words": "郑州-日本",
+						"desc": "5天跟团游",
+						"nowPrice": "4399",
+						"sightId": "https://imgs.qunarzz.com/p/tts2/1612/56/8b27650b4920af02.jpg_r_390x260x90_00c93f87.jpg",
+						"ticketTypeId": "https://imgs.qunarzz.com/p/tts9/1612/ff/bbc7a3ef2f01fb02.jpg_r_390x260x90_f4b44109.jpg",
+						"num4":"https://imgs.qunarzz.com/p/tts1/1612/16/efcca1702fa88f02.jpg_r_390x260x90_8921060a.jpg",
+						"productId": "1443970186"
+					},
+				
+				
+				
+					{
+						"url": "https://imgs.qunarzz.com/p/tts9/1609/83/1ddc136e73e6b002.jpg_r_390x260x90_2b87928f.jpg",
+						"img": "https://imgs.qunarzz.com/p/p2/201302/28/e574803e7e04696e93835fbb.jpg_256x160_5e8bd9b2.jpg",
+						"title": "含往返飞机票(含税)+5晚住宿",
+						"words": "郑州-普吉岛",
+						"desc": "7天跟团游",
+						"nowPrice": "3299",
+						"sightId": "https://imgs.qunarzz.com/p/tts5/1609/90/c3daac17b2b6e302.jpg_r_390x260x90_585b03d1.jpg",
+						"ticketTypeId": "https://imgs.qunarzz.com/p/tts9/1609/d9/714b9d2bc8f20602.jpg_r_390x260x90_5986cceb.jpg",
+						"num4":"https://imgs.qunarzz.com/p/tts6/1609/8a/b5837dcb32c7f02.jpg_r_390x260x90_a8d486ba.jpg",
+						"productId": "1215339996"
+					}, {
+						"url": "https://imgs.qunarzz.com/p/tts5/1409/17/d3302fdb68c69922ffffffffc8d65eac.jpg_r_390x260x90_a880e223.jpg",
+						"img": "https://imgs.qunarzz.com/p/p38/1412/5e/5e62b974578d4ebdcdb.jpg_256x160_b82513d9.jpg",
+						"title": "含往返火车票+4晚住宿",
+						"words": "郑州-西安",
+						"desc": "5天跟团游",
+						"nowPrice": "1860",
+						"sightId": "https://imgs.qunarzz.com/p/tts6/1409/17/728377ba43a8b3d6ffffffffc8d65eac.jpg_r_390x260x90_dafe397b.jpg",
+						"ticketTypeId": "https://imgs.qunarzz.com/p/tts9/1409/17/e442f12e0c05e9b3ffffffffc8d65eac.jpg_r_390x260x90_5fa4864d.jpg",
+						"num4":"https://imgs.qunarzz.com/p/tts4/1409/17/20111a501bcdf280ffffffffc8d65eac.jpg_r_390x260x90_f4b7bc37.jpg",
+						"productId": "1068472933"
+					}, {
+						"url": "https://imgs.qunarzz.com/p/tts7/1704/85/79237b135c636b02.jpg_r_390x260x90_a96fef4b.jpg",
+						"img": "https://imgs.qunarzz.com/p/p27/201302/28/d14185ac8a47f6f993835fbb.jpg_256x160_c2ab9336.jpg",
+						"title": "含往返火车票+4晚住宿",
+						"words": "郑州-张家界",
+						"desc": "5天跟团游",
+						"nowPrice": "1868",
+						"sightId": "https://imgs.qunarzz.com/p/tts8/1704/87/5a089ea052825202.jpg_r_390x260x90_c48da972.jpg",
+						"ticketTypeId": "https://imgs.qunarzz.com/p/tts4/1704/99/31a98873ddda8002.jpg_r_390x260x90_b68bf1de.jpg",
+						"num4":"https://imgs.qunarzz.com/p/tts1/1704/e3/4d77bf2196d38c02.jpg_r_390x260x90_a36ed276.jpg",
+						"productId": "2768526402"
+					}, {
+						"url": "https://imgs.qunarzz.com/p/tts4/1708/26/0a1054a86b9c8f02.jpg_r_390x260x90_99e7c14d.jpg",
+						"img": "https://imgs.qunarzz.com/p/tts6/1703/a5/f80befc01ea2ca02.jpg_256x144_82e652e9.jpg",
+						"title": "含单程火车票+2晚住宿",
+						"words": "郑州-杭州",
+						"desc": "3天跟团游",
+						"nowPrice": "898",
+						"sightId": "https://imgs.qunarzz.com/p/tts8/1708/96/8769f0ea7b911f02.jpg_r_390x260x90_7acf2bca.jpg",
+						"ticketTypeId": "https://imgs.qunarzz.com/p/tts9/1708/50/0184ea8d77550f02.jpg_r_390x260x90_e39fc3e3.jpg",
+						"num4":"https://imgs.qunarzz.com/p/tts6/1708/ca/a686b8a914d2502.jpg_r_390x260x90_23d81d87.jpg",
+						"productId": "1170929851"
+					}
+				],
+				"lin":[
+					{
+						"img": "https://imgs.qunarzz.com/sight/p0/201301/11/e832e816c3f461b293835fbb.jpg_256x160_2d9e4e86.jpg",
+						"title": "竹林长寿山景区",
+						"words": "郑州-杭州",
+						"desc": "回归自然，放飞心情，陶冶情操的佳处",
+						"nowPrice": "26",
+						"sightId": "187102",
+						"ticketTypeId": "391703",
+						"productId": "1170929851"
+					},
+										{
+						"img": "https://imgs.qunarzz.com/sight/p0/201405/29/6696b7748b54aa48027f283481b7e63a.jpg_256x160_c21f9b5f.jpg",
+						"title": "龙门石窟",
+						"words": "郑州-杭州",
+						"desc": "世界文化遗产 中国刻画艺术宝库",
+						"nowPrice": "0.1",
+						"sightId": "187102",
+						"ticketTypeId": "391703",
+						"productId": "1170929851"
+					},
+										{
+						"img": "https://imgs.qunarzz.com/sight/p0/1709/e9/e9b7ae23f567806ea3.img.jpg_256x160_659f7c33.jpg",
+						"title": "嵩山少林寺",
+						"words": "郑州-杭州",
+						"desc": "登顶中岳嵩山，一览天下胜景",
+						"nowPrice": "70",
+						"sightId": "187102",
+						"ticketTypeId": "391703",
+						"productId": "1170929851"
+					},
+										{
+						"img": "https://imgs.qunarzz.com/sight/p0/201405/27/544cae2aeb173cb6533ce6926b68f153.jpg_256x160_e80a446b.jpg",
+						"title": "清明上河园",
+						"words": "郑州-杭州",
+						"desc": "穿越宋朝，亲身体验清明上河园",
+						"nowPrice": "219",
+						"sightId": "187102",
+						"ticketTypeId": "391703",
+						"productId": "1170929851"
+					}
+				],
+				"tabs":[
+
+					{
+						"img": "https://userimg.qunarzz.com/imgs/201510/26/66I5P25zwhUc_hgX6480.jpg",
+						"title": "【龙子湖】郑州上玄月时尚酒店",
+						"words": "经济型",
+						"desc": "郑州金水区郑东新区龙子湖姚桥路与博学路向北300米",
+						"nowPrice": "168",
+						"sightId": "315",
+						"ticketTypeId": "391703",
+						"productId": "1170929851"
+					},
+										{
+						"img": "https://userimg.qunarzz.com/imgs/201609/18/JhS1_tbS10a1l79-J480.jpg",
+						"title": "【其他】新郑华颐居精品酒店",
+						"words": "经济型",
+						"desc": " 郑州新郑市解放路与学院路交汇处北100米（新人民医院东门对面）",
+						"nowPrice": "148",
+						"sightId": "234",
+						"ticketTypeId": "391703",
+						"productId": "1170929851"
+					},
+										{
+						"img": "https://userimg.qunarzz.com/imgs/201507/28/8q41fF9WwvFru1SxZ480.jpg",
+						"title": "【人民路】郑州半山星空景观酒店",
+						"words": "经济型",
+						"desc": "郑州管城区东太康路大上海银座时代广场B座26层",
+						"nowPrice": "138",
+						"sightId": "102",
+						"ticketTypeId": "391703",
+						"productId": "1170929851"
+					},
+					{
+						"img": "https://userimg.qunarzz.com/imgs/201412/03/66I5P26IDTrmtzND6480.jpg",
+						"title": "【其他】郑州四季花园酒店",
+						"words": "经济型",
+						"desc": "郑州金水区相济路与中兴路交汇处（近金水东路）",
+						"nowPrice": "148",
+						"sightId": "102",
+						"ticketTypeId": "391703",
+						"productId": "1170929851"
+					}
+				
+				],
+				
+				"tabs2":[
+
+					{
+						"img": "https://userimg.qunarzz.com/imgs/201503/13/66I5P26A0RGewkGB6480.jpg",
+						"title": "【人民路】郑州富运快捷酒店",
+						"words": "经济型",
+						"desc": "郑州市管城区东太康路8号",
+						"nowPrice": "118",
+						"sightId": "783",
+						"ticketTypeId": "391703",
+						"productId": "1170929851"
+					},
+										{
+						"img": "https://userimg.qunarzz.com/imgs/201608/17/66I5P2NdZwgoPpQm6480.jpg",
+						"title": "【其他】郑州东润商务酒店",
+						"words": "经济型",
+						"desc": " 郑州中牟县白沙镇郑汴物流通道与锦绣路交叉口向南500米",
+						"nowPrice": "128",
+						"sightId": "26",
+						"ticketTypeId": "391703",
+						"productId": "1170929851"
+					},
+										{
+						"img": "https://userimg.qunarzz.com/imgs/201507/28/8q41fF9WwvFru1SxZ480.jpg",
+						"title": "【其他】郑州源丰商务酒店",
+						"words": "经济型",
+						"desc": "郑州市管城区陇海东路306号",
+						"nowPrice": "148",
+						"sightId": "168",
+						"ticketTypeId": "391703",
+						"productId": "1170929851"
+					},
+					{
+						"img": "https://userimg.qunarzz.com/imgs/201507/31/66I5P25i2q9UiMti6480.jpg",
+						"title": "【燕庄】郑州摩卡连锁主题酒店CBD会展中心店",
+						"words": "经济型",
+						"desc": "金水区郑州市未来路与纬四路交叉口向东300米路南（紧挨广发大厦、邻近会展中心、曼哈顿）",
+						"nowPrice": "138",
+						"sightId": "273",
+						"ticketTypeId": "391703",
+						"productId": "1170929851"
+					},
+					{
+						"img": "https://userimg.qunarzz.com/imgs/201412/31/66I5P26XMCrZAZek6480.jpg",
+						"title": "【其他】郑州艾美特时尚酒店",
+						"words": "经济型",
+						"desc": "郑州航空港区郑港七路与琴台街交叉口向南200米鑫荣商业区家得乐南门广场（富士康E区北门对面）",
+						"nowPrice": "138",
+						"sightId": "145",
+						"ticketTypeId": "391703",
+						"productId": "1170929851"
+					},
+					{
+						"img": "https://userimg.qunarzz.com/imgs/201603/16/66I5P2-8zLvdmvwx6480.jpg",
+						"title": "【其他】郑州百纳连锁酒店陇海路店",
+						"words": "经济型",
+						"desc": "郑州市管城回族区新郑路140号",
+						"nowPrice": "128",
+						"sightId": "234",
+						"ticketTypeId": "391703",
+						"productId": "1170929851"
+					}
+				
+				],
+			"tabs3":[
+
+					{
+						"img": "https://userimg.qunarzz.com/imgs/201504/01/66I5P26yTEkHrXGR6480.jpg",
+						"title": "【金水路】郑州温州百亨商旅酒店花园路店",
+						"words": "经济型",
+						"desc": "郑州市金水区花园路10号(与纬四路交汇处)",
+						"nowPrice": "138",
+						"sightId": "59",
+						"ticketTypeId": "391703",
+						"productId": "1170929851"
+					},
+										{
+						"img": "https://userimg.qunarzz.com/imgs/201305/13/Z7-ECTZF0cuMOKRzZ480.jpg",
+						"title": "【郑东新区】郑州大河公馆酒店",
+						"words": "舒适型",
+						"desc": " 河南省郑州市红专路129号(红专路与东明路交叉口)",
+						"nowPrice": "198",
+						"sightId": "544",
+						"ticketTypeId": "391703",
+						"productId": "1170929851"
+					},
+										{
+						"img": "https://userimg.qunarzz.com/imgs/201708/25/C._M0DCicalyJR-3lKi480.jpg",
+						"title": "【郑东新区】中国平煤神马集团郑州商务宾馆",
+						"words": "高档豪华",
+						"desc": "郑州市金水区红专东路132号",
+						"nowPrice": "478",
+						"sightId": "30",
+						"ticketTypeId": "391703",
+						"productId": "1170929851"
+					},
+					{
+						"img": "https://userimg.qunarzz.com/imgs/201608/01/C._M0DCiLfiERlnejdi480.jpg",
+						"title": "【郑东新区】郑州格拉姆瑞玺酒店黄河南路地铁站店",
+						"words": "经济型",
+						"desc": "郑州金水区金水区黄河南路与祥盛街交叉口往西200米路南（近高铁东站）（近金水东路）",
+						"nowPrice": "229",
+						"sightId": "21",
+						"ticketTypeId": "391703",
+						"productId": "1170929851"
+					},
+					{
+						"img": "https://userimg.qunarzz.com/imgs/201608/01/C._M0DCiLfiv-bMCa9i480.jpg",
+						"title": "【花园路】河南新世纪大厦",
+						"words": "舒适型",
+						"desc": "郑州市金水区花园路50号",
+						"nowPrice": "159",
+						"sightId": "30",
+						"ticketTypeId": "391703",
+						"productId": "1170929851"
+					},
+					{
+						"img": "https://userimg.qunarzz.com/imgs/201508/11/66I5P25WYw1qQaoi6480.jpg",
+						"title": "【金水路】郑州梧桐树酒店",
+						"words": "经济型",
+						"desc": "郑州金水区经三路与纬四路交叉口路南（省人民医院向南100米，原秦朝宾馆）",
+						"nowPrice": "168",
+						"sightId": "73",
+						"ticketTypeId": "391703",
+						"productId": "1170929851"
+					}
+				]
+				
+				
+				
+			}
+		},
+		"ret": true
+	}
+}

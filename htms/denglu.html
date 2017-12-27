@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html>
+
+	<head>
+		<meta charset="UTF-8">
+		<title>【去哪儿网】-登录</title>
+		<link rel="shortcut icon" href=" ../img/luotuoxiangzi.png">
+
+		<link rel="stylesheet" type="text/css" href="../css/denglu.css" />
+		<script src="../js/jquery-1.11.3.min.js"></script>
+		<script src="../js/login.js" type="text/javascript" charset="utf-8"></script>
+		<script src="../js/gVerify.js" type="text/javascript" charset="utf-8"></script>
+		<script src="../js/common.js" type="text/javascript" charset="utf-8"></script>
+	</head>
+
+	<body>
+
+		<div class="qn_s_header">
+			<div class="q_s_header_tnav">
+				<ul>
+					<li class="q_s_header_menu" id="user_login">
+						<a href="#" style="padding: 0;">登录</a>
+					</li>
+					<li class="q_s_header_menu ">
+						<a href="zhuce.html" class="q_s_header_a">注册</a>|
+					</li>
+					<li>
+						<a href="javascript:;" class="q_s_header_a" style="color: #ff7c00;">去哪儿网首页</a>|
+					</li>
+					<li>
+						<a href="javascript:;" class="q_s_header_a">联系客服</a>
+					</li>
+				</ul>
+			</div>
+		</div>
+
+		<div id="register_wrap">
+			<div id="register_top">
+				<div class="left">
+					<a href="homepage.html"></a>
+					<div class="register_font">账号登录</div>
+				</div>
+			</div>
+
+			<div id="register_cont">
+				<div class="left">
+					<img src="../img/denglu.jpg" />
+				</div>
+				<div class="right">
+					<div class="top">
+						<form id="forms" method="post">
+							<ul>
+
+								<li class="labels active">
+									<label class="one" for="male"><input name="sex" id="male" type="radio"  checked="checked">账号登录</label>
+								</li>
+								<li class="labels">
+									<label class="too" for="female"><input name="sex" id="female" type="radio">短信验证登录</label>
+								</li>
+							</ul>
+							<div class="ipt actives">
+								<div class="name">
+									<i></i>
+									<input type="text" placeholder="手机号/邮箱/用户名" />
+								</div>
+								<div class="pas">
+									<i></i>
+									<input type="password" placeholder="请输入密码" />
+								</div>
+								<div class="yan">
+									<div class="lef">
+										<input id="code_input" placeholder="请输入验证码" />
+									</div>
+									<div id="v_container"></div>
+								</div>
+								<div id="bixuan">
+									<a href="javascript:;">
+										<i>
+											<input name="chkrem" type="checkbox" checked="" id="remember_paw" tabindex="3">
+										</i>
+										<span>
+											<label for="remember_paw">三个月内自动登录</label>
+										</span>
+									</a>
+									<div class="forget">
+										<a href="javascript:;">忘记密码</a> &nbsp;|&nbsp;
+										<a href="javascript:;">立即注册</a>
+									</div>
+
+								</div>
+								<div id="warm">
+									<i></i>
+									<span>请输入注册手机或邮箱</span>
+								</div>
+								<input id="sub" type="button" style="cursor: pointer;" value="登      录">
+							</div>
+							<div class="ipt ">
+								<div id="kkk">
+									<div class="name">
+										<i></i>
+										<input type="text" placeholder="请输入手机号" />
+									</div>
+									<div class="pas">
+										<i></i>
+										<input type="password" placeholder="请输入验证码" />
+										<a href="javascript:;" class="btn">获取验证码</a>
+									</div>
+
+									<div id="bixuan">
+										<a href="javascript:;">
+											<i>
+											<input name="chkrem" type="checkbox" checked="" id="remember_paw1" tabindex="3">
+										</i>
+											<span>
+											<label for="remember_paw">三个月内自动登录</label>
+										</span>
+										</a>
+										<div class="forget">
+											<a href="javascript:;">忘记密码</a> &nbsp;|&nbsp;
+											<a href="javascript:;">立即注册</a>
+										</div>
+
+									</div>
+									<div id="warm">
+										<i></i>
+										<span>请输入注册手机或邮箱</span>
+									</div>
+									<input id="sub1" type="button" style="cursor: pointer;" value="登      录">
+								</div>
+							</div>
+							<div class="ft_container">
+								<div class="third_login clearfix">
+									<div class="left_line"></div>
+									<div class="title">第三方账号登录</div>
+									<div class="right_line"></div>
+								</div>
+								<div class="sina_tip">
+									<a class="login_wechat" tabindex="6">微信</a>
+									<a class="login_qq" href="" tabindex="7">QQ</a>
+									<a class="login_sina" href="" tabindex="8">新浪微博</a>
+									<a class="login_baidu" href="" tabindex="9">百度</a>
+
+								</div>
+							</div>
+
+						</form>
+					</div>
+
+				</div>
+			</div>
+		</div>
+
+		<div class="qn_footer">
+			<div class="inner">
+
+				<div class="cr">
+					<div class="links">
+						<div class="fh-about" onmouseover="this.className+=' hover'" onmouseout="this.className=this.className.replace(/\shover/g,'')">
+							<a href="http://www.qunar.com/site/zh/Qunar.in.China_1.2.shtml" target="_blank" rel="nofollow" class="about-link">关于Qunar.com</a><i></i>
+							<div class="fh-list-wrapper">
+								<div class="fh-list">
+									<a href="http://www.qunar.com/site/zh/ContactUs_3.shtml" target="_blank" rel="nofollow">联系我们</a>
+									<a href="http://www.qunar.com/site/zh/Rules.shtml" target="_blank" rel="nofollow">用户协议</a>
+									<a href="http://www.qunar.com/site/zh/Question_7.shtml" target="_blank" rel="nofollow"></a>
+									<a href="http://www.qunar.com/site/zh/Links_8.shtml" target="_blank" rel="nofollow"></a>
+								</div>
+							</div>
+						</div><span>|</span>
+						<a href="http://investor-zh.qunar.com" target="_blank" rel="nofollow">投资者关系</a><span>|</span>
+						<a href="http://hotelzt.qunar.com/xuanchuan/index.html?from=qunarfooter" target="_blank" rel="nofollow">酒店加盟</a><span>|</span>
+						<a href="http://www.928383.com/?from=3W" target="_blank" rel="nofollow">酒店分销</a><span>|</span>
+						<a href="http://www.qunar.com/site/zh/Cooperate_4.shtml" target="_blank" rel="nofollow">业务合作</a><span>|</span>
+						<a href="http://qunar.zhiye.com/" target="_blank" rel="nofollow">加入我们</a><span>|</span>
+						<a href="http://help.qunar.com/complaint.html" class="" target="_blank" rel="nofollow">"严重违规失信"专项整治举报</a><span>|</span>
+						<a href="http://security.qunar.com" target="_blank" rel="nofollow">安全中心</a><span>|</span>
+						<a href="http://www.qunar.com/commonweal/index.html" target="_blank">星骆驼公益</a><span>|</span>
+						<a href="http://www.qunar.com/site/en/Qunar.in.China_1.1.shtml" target="_blank" rel="nofollow">About Us</a>
+					</div>
+					<p class="copyright"><span>Copyright ©2017 Qunar.com</span><span>京公网安备110108901530</span>
+						<a href="http://www.miibeian.gov.cn/" target="_blank" rel="nofollow">京ICP备05021087号</a>
+						<a href="http://www.qunar.com/site/company_info.htm" target="_blank" rel="nofollow">营业执照信息</a>
+						<a href="http://baoxian.qunar.com/html/notify_zct.html" target="_blank" rel="nofollow">保险经纪资质</a>
+						<a href="http://www.qunar.com/site/company_drug_info.htm" target="_blank" rel="nofollow">(京)-非经营性-2016-0110</a><span class="s24">去哪儿网客服电话95117</span></p>
+				</div>
+				<div class="f_imglist">
+					<ul>
+
+						<li class="f_icon_pci">
+							<a href="http://www.atsec.cn/cn/pci-attestation/Qunar-PCIAttestation-atsec-PCI-DSS-C-65221.jpg" target="_blank" rel="nofollow" title="去哪儿网通过PCI认证"></a>
+						</li>
+						<li class="f_icon_itrust">
+							<a href="http://www.itrust.org.cn/yz/pjwx.asp?wm=1786892425" target="_blank" rel="nofollow" title="信用编码：1786892425"></a>
+						</li>
+						<li class="f_icon_beian">
+							<a href="http://www.hd315.gov.cn/beian/view.asp?bianhao=010202007112700003" target="_blank" rel="nofollow" title="经营性网站备案信息"></a>
+						</li>
+						<li class="f_icon_cnnic">
+							<a href="https://ss.knet.cn/verifyseal.dll?sn=e131022110100429697dhp000000&amp;ct=df&amp;a=1&amp;pa=500267" target="_blank" rel="nofollow" title="可信网站身份验证"></a>
+						</li>
+					</ul>
+					<div class="clr"></div>
+				</div>
+
+			</div>
+		</div>
+
+	</body>
+
+</html>

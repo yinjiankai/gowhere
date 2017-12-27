@@ -1,0 +1,394 @@
+body,
+ul,
+li,
+dl,
+dt,
+dd,
+p,
+ol,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+form,
+img,
+table,
+fieldset,
+legend {
+    margin: 0;
+    padding: 0;
+}
+
+ul,
+ol {
+    list-style: none;
+}
+
+a {
+    color: #666;
+    text-decoration: none;
+}
+
+body {
+    font-size: 12px;
+}
+
+
+#top{
+    
+    
+//  margin: 0 auto -427px;
+    width: 100%;
+    min-width: 980px;
+    height: 73px;
+    border-bottom: 2px solid #00afc7;
+    #header {
+        clear: both;
+        position: relative;
+        width: 1200px;
+        margin: 0 auto;
+        height: 73px;
+        .logo {
+            float: left;
+            display: inline;
+            margin: 15px 0 0 0;
+            width: 128px;
+            height: 50px;
+            position: relative;
+            img {
+                border: 0;
+            }
+        }
+        .tit {
+            float: right;
+            display: inline;
+            padding: 6px 0 0 0;
+            width: 688px;
+            height: 14px;
+            ul {
+                float: right;
+                display: inline;
+                line-height: 14px;
+                font-family: tahoma, arial, sans-serif;
+                line-height: 14px;
+                li {
+                    a {
+                        z-index: 10;
+                        &:hover {
+                            color: #0084bb;
+                        }
+                    }
+                    float: left;
+                    display: inline;
+                    padding: 0 11px 0 10px;
+                    background: url('//source.qunarzz.com/common/hf/header_new_v7.png') 100% -98px no-repeat;
+                }
+                #last {
+                    background-image: none;
+                }
+                #one {
+                    background-image: none;
+                    a {
+                        color: #0084bb;
+                    }
+                }
+                #four {
+                    position: relative;
+                    background: #fff;
+                    padding-right: 10px;
+                    background: none;
+                    dl {
+                        dd {
+                            z-index: 10;
+                            //                        
+                            display: none;
+                            width: 72px;
+                            //                          height: px;
+                            border: 1px solid #ccc;
+                            padding-top: 20px;
+                            //                          padding-left:9px ;
+                            //                          padding-right:2px ;
+                            position: absolute;
+                            top: -5px;
+                            left: 0;
+                            div {
+                                background: #FFFFFF;
+                                a {
+                                    display: block;
+                                    width: 50px;
+                                    padding: 0 8px;
+                                    line-height: 23px;
+                                    white-space: nowrap;
+                                    word-break: break-all;
+                                    text-align: left;
+                                    color: #666;
+                                }
+                            }
+                        }
+                        dt {
+                            #tb {
+                                width: 1px;
+                                height: 5px;
+                                background: url('//source.qunarzz.com/common/hf/header_new_v7.png') 100% -98px no-repeat;
+                            }
+                            #ob {
+                                display: inline-block;
+                                position: relative;
+                                left: 2px;
+                                right: 10px;
+                                z-index: 1;
+                                width: 6px;
+                                height: 6px;
+                                background: url('//source.qunarzz.com/common/hf/header_new_v7.png') -153px -21px no-repeat;
+                                overflow: hidden;
+                            }
+                        }
+                    }
+                }
+                #too {
+                    margin-left: -12px;
+                    a {
+                        color: #0084bb;
+                    }
+                    span {
+                        margin-right: 5px;
+                        margin-left: 0px;
+                    }
+                }
+                #sir {
+                    min-width: 76px;
+                    left: -1px;
+                    top: -1px;
+                    height: 19px;
+                    border: 0 solid black;
+                    position: relative;
+                    padding-left: 0;
+                    padding-right: 0;
+                    display: inline-block;
+                    div {
+                        padding: 5px 10px 0 10px;
+                        margin-top: -5px;
+                        background: 0;
+                        height: 19px;
+                        bottom: -1px;
+                        position: relative;
+                        a {
+                            i {
+                                position: relative;
+                                background: url('//source.qunarzz.com/common/hf/header_v13.png') -30px -153px no-repeat;
+                                width: 11px;
+                                height: 8px;
+                                display: inline-block;
+                                overflow-x: hidden;
+                                margin-right: 4px;
+                            }
+                            b {
+                                display: inline-block;
+                                position: relative;
+                                left: 5px;
+                                right: 11px;
+                                z-index: 1;
+                                width: 6px;
+                                height: 6px;
+                                background: url('//source.qunarzz.com/common/hf/header_new_v7.png') -153px -21px no-repeat;
+                                overflow: hidden;
+                            }
+                        }
+                    }
+                }
+            }
+        }
+  
+
+  
+    
+    }
+            .masage{
+                width: 1200px;
+                margin: 0 auto;
+
+                .tit{
+                        height: 42px;
+                        line-height: 42px;
+                        color: #999;
+                        font-size: 12px;
+                        text-align: center;
+                        div{
+                            float: left;
+                            margin: 0 100px;
+                        }
+                }
+            }
+    .shop{
+        width: 1200px;
+        margin: 0 auto;
+
+              
+        
+        .shop_tit{
+
+            height: 35px;
+            width: 1200px;
+            background: #CCCCCC;
+            border: 1px solid #CCCCCC;
+            span{
+                line-height: 34px;
+                margin-left: 40px;
+            }
+        }
+    }
+    
+    .shop_news{
+        
+            margin-bottom: 5px;
+              cursor: pointer;
+        
+            width: 1200px;
+            border: 1px solid #CCCCCC;
+             float: left;
+        div{
+            float: left;
+        }
+        .newsMasage_cart{
+            position: relative;
+            padding: 30px;
+            margin-left: 10px;
+            width: 240px;
+            height: 60px;
+            img{
+            width: 88px;
+            height: 60px;  
+            }
+            a{  
+                position: absolute;
+                top: 50px;
+                left: 130px;
+                color: #000000;
+                
+                
+                
+                &:hover{
+                    color: deepskyblue;
+                }
+            }
+            
+        }
+        .price_cart{
+                  
+            padding: 30px;
+            text-align: center;
+            width:80px;
+
+            margin-left: -20px;
+            height: 60px;  
+            line-height: 60px;
+        }
+        .travelMasage_cart{
+              padding: 30px;
+              text-align: center;
+                 width:150px;
+              height: 60px;  
+              margin-left: 40px;
+              .pepo{
+                
+                    position: relative;
+                    margin-left: -10px;
+                    margin-top: 23px;
+
+                    span{
+                        font-size: 12px;
+                        margin-left: 35px;
+                            
+                    }
+                    #jian{
+                        cursor: pointer;
+                        height:20px;
+                        width: 20px;
+                        line-height: 15px;
+                        text-align: center;
+                        float: left;
+                        position: absolute;
+                        left: 63px;
+                        top: -2px;
+                        border: 1px solid  #CCCCCC;
+                        font-size:25px ;
+                    }
+                    #nums{
+                        height:35px;
+                        width: 50px;
+                        line-height: 33px;
+                        text-align: center;
+                        float:left;
+                        position: absolute;
+                        left: 86px;
+                        top: -9px;
+                        border: 1px solid  #CCCCCC;                       
+                    }
+                      #jia{
+                        font-size:15px ;
+                          
+                          cursor: pointer;
+                        height:20px;
+                        width: 20px;
+                        line-height: 20px;
+                        text-align: center;
+                        float: left;
+                        position: absolute;
+                        left: 139px;
+                        top: -2px;
+                        border: 1px solid  #CCCCCC;
+                    }
+                    em{ 
+                        width: 30px;
+                        font-style: normal;
+                        float: right;
+                        position: absolute;
+                        left: 322px
+                    }
+                  
+              }
+        }
+       .money_cart{
+                
+                color: #ff3d00;
+                font-size: 16px;
+                font-weight: bold;
+                            padding: 30px;
+            text-align: center;
+            width:50px;
+            margin-left:96px ;
+            height: 60px;  
+            line-height: 60px;
+       } 
+       .handl_cart{
+              padding: 32px;
+            text-align: center;
+            width:100px;
+            margin-left:100px ;
+            height:40px;  
+           .affirm{
+                width:80px;
+                height: 23px;
+                border: 1px ;
+                margin-bottom: 10px;
+                    color: #fff;
+                    background: #ff3d00;
+                    text-align: center;
+                    line-height: 23px;
+                    cursor: pointer;
+                
+           }
+           .remove{
+                width:80px;
+                height: 25px;
+                cursor:pointer;
+                
+                &:hover{
+                    color: deepskyblue;
+                }
+           }
+       }
+    }
+}

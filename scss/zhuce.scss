@@ -1,0 +1,395 @@
+body,
+ul,
+li,
+dl,
+dt,
+dd,
+p,
+ol,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+form,
+img,
+table,
+fieldset,
+legend {
+    margin: 0;
+    padding: 0;
+}
+
+ul,
+ol {
+    list-style: none;
+}
+
+a {
+    color: #666;
+    text-decoration: none;
+}
+
+body {
+    font-size: 12px;
+}
+
+.qn_s_header {
+    width: 100%;
+    height: 28px;
+    border-bottom: 1px solid #ddd;
+    background-color: #f5f5f5;
+    .q_s_header_tnav {
+        width: 980px;
+        margin: 0 auto;
+        ul {
+            float: right;
+            display: inline;
+            line-height: 14px;
+            padding-top: 8px;
+            font-family: tahoma, arial, sans-serif;
+            height: 14px;
+            li {
+                float: left;
+                display: inline;
+                a {
+                    text-decoration: none;
+                    color: #555;
+                    padding: 0 8px;
+                }
+            }
+        }
+    }
+}
+
+#content {
+    width: 980px;
+    margin: 0 auto;
+    color: #555;
+    .page-title {
+        width: 980px;
+        line-height: 53px;
+        height: 53px;
+        padding: 20px 11px;
+        .page-logo {
+            display: block;
+            width: 138px;
+            height: 53px;
+            float: left;
+            cursor: pointer;
+            background: url(https://user.qunar.com/images/ugc/ucenter/login-logo.png);
+        }
+        div {
+            font: normal 18px/18px "microsoft yahei", arial, sans-serif;
+            padding-left: 20px;
+            float: left;
+            padding-top: 34px;
+        }
+    }
+    
+  #page_con{
+      
+          margin: 0 auto;
+    background: #fff;
+    border-top: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    min-height: 455px;
+    form{
+             float: left;
+            width: 615px;
+            clear: both;
+            padding: 40px 0 0 30px;
+            div{
+
+                color: #999;
+                font-family: tahoma,arial,sans-serif;
+                height: 36px;
+
+            }
+            .country{
+                    padding: 10px 0;
+                    position: relative;
+                label{
+                        position: relative;
+                        float: left;
+                        padding-top: 8px;
+                        display: inline-block;
+                        width: 80px;
+                        text-align: right;
+                        font-size: 14px;
+                        vertical-align: middle;
+                       
+                }
+                .val{   
+                        padding: 10px 0;
+                        float: left;
+                         margin-left: 10px;
+                         width: 256px;
+                        border: 1px solid #CCCCCC;
+                        height: 17px;
+                }
+                input{
+                    width: 200px;
+                    height: 34px;
+                    position: absolute;
+                    left: 100px;
+                    border: 0;
+                    margin-top: 2px;
+                    outline: none;
+                   
+                }
+            }
+            
+            
+            .numbers{
+                    padding: 10px 0;
+                    position: relative;
+                label{
+                        position: relative;
+                        float: left;
+                        padding-top: 8px;
+                        display: inline-block;
+                        width: 80px;
+                        text-align: right;
+                        font-size: 14px;
+                        vertical-align: middle;
+                       
+                }
+                .val{   
+                    padding: 10px 0;
+                        float: left;
+                         margin-left: 10px;
+                         width: 256px;
+                        border: 1px solid #CCCCCC;
+                        height: 17px;
+                }
+                input{
+                    width: 200px;
+                    height: 34px;
+                    position: absolute;
+                    left: 100px;
+                    border: 0;
+                    margin-top: 2px;
+                    outline: none;
+                   
+                }
+                .bei{
+                    float: right;
+                    margin-right: 30px;
+                    text-align: center;
+                    line-height: 39px;
+                }
+                    .beizhu{
+                        display: none;
+                     float: right;
+                   position: absolute;
+                   top: 12px;
+                   left: 360px;
+                    text-align: center;
+                    line-height: 34px;
+                      padding-left: 19px;
+                       background: url(//user.qunar.com/images/ugc/ucenter/error_v2.png) 0 45% no-repeat;
+                    }
+           .trues{
+                        display: none;
+                     float: right;
+                   position: absolute;
+                   top: 12px;
+                   left: 360px;
+                    text-align: center;
+                    line-height: 34px;
+                      padding-left: 19px;
+                       background: url(//user.qunar.com/images/ugc/ucenter/error_v2.png) 0 45% no-repeat;
+                    }
+            
+            }
+            
+            
+            
+           .pass{   
+                padding: 10px 0;
+                    position: relative;
+                label{
+                        position: relative;
+                        float: left;
+                        padding-top: 8px;
+                        display: inline-block;
+                        width: 80px;
+                        text-align: right;
+                        font-size: 14px;
+                        vertical-align: middle;
+                       
+                }
+                .val{   
+                        padding: 10px 0;
+                        float: left;
+                         margin-left: 10px;
+                         width: 256px;
+                        border: 1px solid #CCCCCC;
+                        height: 17px;
+                }
+                input{
+                    width: 200px;
+                    height: 34px;
+                    position: absolute;
+                    left: 100px;
+                    border: 0;
+                    margin-top: 2px;
+                    outline: none;
+                   
+                }
+                .trues{
+                    
+                        display: none;
+                        line-height: 36px;
+                       background: url(//user.qunar.com/images/ugc/ucenter/error_v2.png) 0 70% no-repeat;
+                        width: 200px;
+                        height: 30px;
+                        float: right;
+                        padding-left: 19px;
+                        margin-right:40px;
+
+
+                }
+            
+        }
+            
+            .yanzheng{   
+                     padding: 10px 0;
+                    position: relative;
+                label{
+                        position: relative;
+                        float: left;
+                        padding-top: 8px;
+                        display: inline-block;
+                        width: 80px;
+                        text-align: right;
+                        font-size: 14px;
+                        vertical-align: middle;
+                       
+                }
+                .val{   
+                        padding: 10px 0;
+                        float: left;
+                         margin-left: 10px;
+                         width: 140px;
+                        border: 1px solid #CCCCCC;
+                        height: 17px;
+                }
+                input{
+                    width: 120px;
+                    height: 34px;
+                    position: absolute;
+                    left: 100px;
+                    border: 0;
+                    margin-top: 2px;
+                    outline: none;
+                   
+                }
+                #v_container1{   
+                    
+                    position: absolute;
+                    right: 266px;
+                    background: red;
+                    width: 100px;
+                    height: 38px;
+                }
+            
+           } 
+            
+                     .jihuo{   
+                    padding: 10px 0;
+                    position: relative;
+                label{
+                        position: relative;
+                        float: left;
+                        padding-top: 8px;
+                        display: inline-block;
+                        width: 80px;
+                        text-align: right;
+                        font-size: 14px;
+                        vertical-align: middle;
+                       
+                }
+                .val{   
+                    padding: 10px 0;
+                        float: left;
+                         margin-left: 10px;
+                         width: 140px;
+                        border: 1px solid #CCCCCC;
+                        height: 17px;
+                }
+                input{
+                    width: 120px;
+                    height: 34px;
+                    position: absolute;
+                    left: 100px;
+                    border: 0;
+                    margin-top: 2px;
+                    outline: none;
+                   
+                }
+                .ji{
+                    position: absolute;
+                    right: 266px;
+                    top: 15px;
+                    background: red;
+                    width: 100px;
+                    height:28px; 
+                    text-align: center;
+                    line-height: 28px;
+                    background: #2070f8;
+                    color: #FFFFFF;
+                    border-radius: 4px;
+                    cursor: pointer;
+                }
+           }    
+         .read{
+             input{
+                 margin-left: 90px;
+                 margin-top: 10px;
+                 cursor: pointer;
+
+             }
+             .sp{
+                 margin-left: 110px;
+                 margin-top: -17px;
+                 span{
+                     color: #2070f8;
+                     cursor: pointer;
+                 }
+                 
+             }
+
+         }   
+         .yess{
+             .btns{
+                 margin-left: 100px;
+                 width: 116px;
+                 margin-top: 10px;
+                    height: 30px;
+                    font-size: 14px;
+                    color: white;
+                    border: 0;
+                    background: #ff9c00;
+                    text-align: center;
+                    line-height: 30px;
+                    font-size: 15px;
+                    cursor: pointer;
+                    border-radius:3px ;
+             }
+         }
+    }
+            .dapic{
+                float: right;
+                width: 400px;
+                position: absolute;
+                top: 170px;
+                left: 850px;
+            }
+  }  
+    
+    
+    
+}

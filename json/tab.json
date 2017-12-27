@@ -1,0 +1,83 @@
+{
+	"hashMap": {
+		"data": {
+			"moreLink": "http://piao.qunar.com",
+			"list": {
+				"primary": [
+					{
+						"img": "https://imgs.qunarzz.com/p/tts2/1704/15/7b9332729f36e902.jpg_r_390x260x90_b8a927af.jpg",
+						"title": "北京-德法意瑞12天11晚跟团游",
+						"words": "春节低价预售！德法意瑞4国12天双堡+含签证+无强迫自费+真实团期价格",
+						"desc": "回归自然、放飞心情、陶冶情操的佳处",
+						"nowPrice": "3399",
+						"marketPrice": "50",
+						"sightId": "40246",
+						"ticketTypeId": null,
+						"productId": null,
+						"order": null
+					}, {
+						"img": "https://imgs.qunarzz.com/p/tts5/1708/e1/f4c4ec6b72689902.jpg_r_390x260x90_9ed96282.jpg",
+						"title": "北京-美国跟团游",
+						"words": "<暖冬>美国西海岸洛杉矶+拉斯维加斯+旧金山+夏威夷12日+直飞+拒签无忧",
+						"desc": "世界文化遗产 中国石刻艺术宝库",
+						"nowPrice": "7499",
+						"marketPrice": "60",
+						"sightId": "10239",
+						"ticketTypeId": null,
+						"productId": null,
+						"order": null
+					}
+				],
+
+				"secondary": [
+					{
+						"img": "https://imgs.qunarzz.com/p/tts2/1705/f4/6cba491598fe0a02.jpg_r_390x260x90_be47cc32.jpg",
+						"title": "乌鲁木齐-吐鲁番跟团游",
+						"words": "火洲吐鲁番一日游+自费自愿不强迫",
+						"desc": "登顶中岳嵩山，一览天下胜景",
+						"nowPrice": "260",
+						"marketPrice": "80",
+						"sightId": "11390",
+						"ticketTypeId": null,
+						"productId": null,
+						"order": null
+					}, {
+						"img": "https://imgs.qunarzz.com/p/tts5/1712/60/c99135ec6e7e2502.jpg_r_390x260x90_2e459ba9.jpg",
+						"title": "北京-长白山 4天3晚自由行",
+						"words": "<长白山天域度假酒店4日自由行>直飞长白山+接送机+温泉+玩转欢乐冰雪世界",
+						"desc": "穿越宋朝，亲身体验清明上河图",
+						"nowPrice": "1893",
+						"marketPrice": "219",
+						"sightId": "1666",
+						"ticketTypeId": null,
+						"productId": null,
+						"order": null
+					}, {
+						"img": "https://imgs.qunarzz.com/p/tts4/1701/6d/c48662846ee9aa02.jpg_r_390x260x90_85e7c536.jpg",
+						"title": "海口-三亚 两天一晚跟团游",
+						"words": "国旅品质+特惠促销+经典线路",
+						"desc": "新颖的参与方式，惊险刺激",
+						"nowPrice": "188",
+						"marketPrice": "180",
+						"sightId": "187102",
+						"ticketTypeId": null,
+						"productId": null,
+						"order": null
+					}, {
+						"img": "https://imgs.qunarzz.com/p/tts5/1706/ff/1a2f5abda3387e02.jpg_r_390x260x90_da2efda8.jpg",
+						"title": "昆明-越南6天5晚半自助",
+						"words": "包机直飞+海边酒店+珍珠岛乐园",
+						"desc": "那片山的蓝，不仅是种颜色",
+						"nowPrice": "799",
+						"marketPrice": "210",
+						"sightId": "6901",
+						"ticketTypeId": null,
+						"productId": null,
+						"order": null
+					}
+				]
+			}
+		},
+		"ret": true
+	}
+}

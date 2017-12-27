@@ -1,0 +1,674 @@
+body,
+ul,
+li,
+dl,
+dt,
+dd,
+p,
+ol,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+form,
+img,
+table,
+fieldset,
+legend {
+    margin: 0;
+    padding: 0;
+}
+
+ul,
+ol {
+    list-style: none;
+}
+
+a {
+    color: #666;
+    text-decoration: none;
+}
+
+body {
+    font-size: 12px;
+}
+
+.qn_s_header {
+    width: 100%;
+    height: 28px;
+    border-bottom: 1px solid #ddd;
+    background-color: #f5f5f5;
+    .q_s_header_tnav {
+        width: 980px;
+        margin: 0 auto;
+        ul {
+            float: right;
+            display: inline;
+            line-height: 14px;
+            padding-top: 8px;
+            font-family: tahoma, arial, sans-serif;
+            height: 14px;
+            li {
+                float: left;
+                display: inline;
+                a {
+                    text-decoration: none;
+                    color: #555;
+                    padding: 0 8px;
+                }
+            }
+        }
+    }
+}
+
+#register_wrap {
+    width: 980px;
+    margin: 0 auto;
+    background: #FFFFFF;
+    #register_top {
+        width: 980px;
+        height: 53px;
+        padding: 20px 11px;
+        .left {
+            width: 980px;
+            height: 53px;
+            padding: 20px 11px;
+            a {
+                display: block;
+                width: 138px;
+                height: 53px;
+                float: left;
+                cursor: pointer;
+                background: url("https://user.qunar.com/images/ugc/ucenter/login-logo.png");
+            }
+            .register_font {
+                font: normal 18px/18px "microsoft yahei", arial, sans-serif;
+                padding-left: 20px;
+                float: left;
+                padding-top: 34px;
+            }
+        }
+    }
+    #register_cont {
+        margin-top: 30px;
+        width: 980px;
+        background: #fff;
+        border-top: 1px solid #ddd;
+        border-bottom: 1px solid #ddd;
+        .left {
+            float: left;
+            width: 625px;
+            cursor: pointer;
+        }
+        .right {
+            float: right;
+            width: 355px;
+            background-color: #f6f6f6;
+            position: relative;
+            height: auto!important;
+            min-height: 442px!important;
+            .top {
+                #forms {
+                    margin: 45px auto 110px;
+                    width: 249px;
+                    font: normal 12px/12px "宋体";
+                    
+                    .active{
+                            color: #000;
+                            font-size: 15px;
+                            font-weight: 600;
+                    }
+                    .labels {
+                        position: relative;
+                        #male {
+                            cursor: pointer;
+                            position: absolute;
+                            top: -3px;
+                            left: -6px;
+                        }
+                        .one {
+                            margin-left: 16px;
+                            cursor: pointer;
+                        }
+                        .too {
+                            cursor: pointer;
+                            margin-right: 13px;
+                            position: absolute;
+                            right: -10px;
+                            top: -12px;
+                        }
+                        #female {
+                            cursor: pointer;
+                            position: absolute;
+                            left: -23px;
+                            top: -3px;
+                        }
+                    }
+                    .ipt {
+                            display: none;
+                        .name {
+                            background: #fff;
+                            margin-top: 20px;
+                            position: relative;
+                            height: 28px;
+                            border: 1px solid #ccc;
+                            i {
+                                float: left;
+                                background: url("https://user.qunar.com/images/ugc/ucenter/login-icon-v2.png") no-repeat 0 0;
+                                width: 11px;
+                                height: 11px;
+                                margin: 9px 10px 0;
+                                background-position: -129px -90px;
+                            }
+                            input {
+                                color: #666;
+                                font: bold 14px/14px Tahoma;
+                                float: left;
+                                padding: 0 10px;
+                                margin-top: 5px;
+                                height: 18px;
+                                line-height: 18px;
+                                width: 182px;
+                                border: 0;
+                                border-left: 1px solid #ccc;
+                                outline: none;
+                            }
+                        }
+                        .pas {
+                            background: #fff;
+                            margin-top: 20px;
+                            position: relative;
+                            height: 28px;
+                            border: 1px solid #ccc;
+                            i {
+                                float: left;
+                                background: url("https://user.qunar.com/images/ugc/ucenter/login-icon-v2.png") no-repeat 0 0;
+                                width: 11px;
+                                height: 11px;
+                                margin: 9px 10px 0;
+                                background-position: -129px -101px;
+                            }
+                            input {
+                                color: #666;
+                                font: bold 14px/14px Tahoma;
+                                float: left;
+                                padding: 0 10px;
+                                margin-top: 5px;
+                                height: 18px;
+                                line-height: 18px;
+                                width: 182px;
+                                border: 0;
+                                border-left: 1px solid #ccc;
+                                outline: none;
+                            }
+                        }
+                        .yan {
+                            position: relative;
+                            .lef {
+                                padding-left: 10px;
+                                width: 147px;
+                                background: #fff;
+                                margin-top: 20px;
+                                position: relative;
+                                height: 28px;
+                                border: 1px solid #ccc;
+                                input {
+                                    width: 100%;
+                                    height: 24px;
+                                    border: 0;
+                                    line-height: 39px;
+                                    outline: none;
+                                }
+                            }
+                            #v_container {
+                                width: 80px;
+                                height: 30px;
+                                background: #FFFFFF;
+                                position: absolute;
+                                right: 0;
+                                top: 0;
+                            }
+                        }
+                        #bixuan {
+                            margin-top: 24px;
+                            line-height: 14px;
+                            a {
+                                i {
+                                    margin-top: -2px;
+                                    input {
+                                        outline: none;
+                                    }
+                                    float: left;
+                                    margin-right: 5px;
+                                }
+                                span {
+                                    float: left;
+                                    color: #555;
+                                    cursor: pointer;
+                                }
+                            }
+                            .forget {
+                                a {
+                                    &:hover {
+                                        color: red;
+                                    }
+                                    color:#0069ca;
+                                }
+                                float: right;
+                                color: #0069ca;
+                            }
+                        }
+                        #warm {
+                            display: none;
+                            width: 95%;
+                            float: left;
+                            margin-top: 20px;
+                            border: 1px solid #f8d3a7;
+                            background: #fffedf;
+                            padding: 6px;
+                            i {
+                                float: left;
+                                width: 16px;
+                                height: 17px;
+                                overflow: hidden;
+                                margin-top: 1px;
+                                background: url("https://user.qunar.com/images/ugc/ucenter/icon-btn.png") no-repeat -48px -83px;
+                                background-position: -16px -83px;
+                                margin-right: 5px;
+                            }
+                            span {
+                                float: left;
+                                line-height: 18px;
+                                width: 210px;
+                                text-align: left;
+                                color: #666;
+                            }
+                        }
+                        #sub1 {
+                            &:hover {
+                                background: url("https://source.qunarzz.com/usercenter/login-left/pic_v4.png") no-repeat -248px 0;
+                            }
+                            border: 0;
+                            display: inline-block;
+                            background: url("https://source.qunarzz.com/usercenter/login-left/pic_v4.png") no-repeat 0 0;
+                            overflow: hidden;
+                            width: 249px;
+                            height: 30px;
+                            color: #fff;
+                            text-align: center;
+                            font: bold 14px/30px '宋体';
+                            outline: none;
+                            margin: 20px 0 0;
+                        }
+                    }
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+                    .ipt {
+                          
+                            display: none;
+                              #kkk{
+                        .name {
+                            background: #fff;
+                            margin-top: 20px;
+                            position: relative;
+                            height: 28px;
+                            border: 1px solid #ccc;
+                            i {
+                                float: left;
+                                background: url("https://user.qunar.com/images/ugc/ucenter/login-icon-v2.png") no-repeat 0 0;
+                                width: 11px;
+                                height: 11px;
+                                margin: 9px 10px 0;
+                                background-position: -129px -90px;
+                            }
+                            input {
+                                color: #666;
+                                font: bold 14px/14px Tahoma;
+                                float: left;
+                                padding: 0 10px;
+                                margin-top: 5px;
+                                height: 18px;
+                                line-height: 18px;
+                                width: 182px;
+                                border: 0;
+                                border-left: 1px solid #ccc;
+                                outline: none;
+                            }
+                        }
+                        .pas {
+                            width: 150px;
+                            background: #fff;
+                            margin-top: 20px;
+                            position: relative;
+                            height: 28px;
+                            border: 1px solid #ccc;
+                            i {
+                                float: left;
+                                background: url("https://user.qunar.com/images/ugc/ucenter/login-icon-v2.png") no-repeat 0 0;
+                                width: 11px;
+                                height: 11px;
+                                margin: 9px 10px 0;
+                                background-position: -129px -101px;
+                            }
+                            input {
+                                position: absolute;
+                                
+                                color: #666;
+                                font: bold 14px/14px Tahoma;
+                                float: left;
+                                padding: 0 10px;
+                                margin-top: 5px;
+                                height: 18px;
+                                line-height: 18px;
+                                width: 95px;
+                                border: 0;
+                                border-left: 1px solid #ccc;
+                                outline: none;
+                            }
+                            .btn{   
+                                    text-align: center;
+                                    color: #FFFEDF;
+                                    position: absolute;
+                                    right:-98px;
+                                    top: 3px;
+                                      background: #0069ca;
+                                      outline:none;
+                                    width: 85px;
+                                    height: 22px;
+                                    line-height: 22px;
+                            }
+                        }
+                        .yan {
+                            position: relative;
+                            .lef {
+                                padding-left: 10px;
+                                width: 147px;
+                                background: #fff;
+                                margin-top: 20px;
+                                position: relative;
+                                height: 28px;
+                                border: 1px solid #ccc;
+                                input {
+                                    width: 100%;
+                                    height: 24px;
+                                    border: 0;
+                                    line-height: 39px;
+                                    outline: none;
+                                }
+                            }
+                            #v_container {
+                                width: 80px;
+                                height: 30px;
+                                background: #FFFFFF;
+                                position: absolute;
+                                right: 0;
+                                top: 0;
+                            }
+                        }
+                        #bixuan {
+                            margin-top: 24px;
+                            line-height: 14px;
+                            a {
+                                i {
+                                    margin-top: -2px;
+                                    input {
+                                        outline: none;
+                                    }
+                                    float: left;
+                                    margin-right: 5px;
+                                }
+                                span {
+                                    float: left;
+                                    color: #555;
+                                    cursor: pointer;
+                                }
+                            }
+                            .forget {
+                                a {
+                                    &:hover {
+                                        color: red;
+                                    }
+                                    color:#0069ca;
+                                }
+                                float: right;
+                                color: #0069ca;
+                            }
+                        }
+                        #warm {
+                            display: none;
+                            width: 95%;
+                            float: left;
+                            margin-top: 20px;
+                            border: 1px solid #f8d3a7;
+                            background: #fffedf;
+                            padding: 6px;
+                            i {
+                                float: left;
+                                width: 16px;
+                                height: 17px;
+                                overflow: hidden;
+                                margin-top: 1px;
+                                background: url("https://user.qunar.com/images/ugc/ucenter/icon-btn.png") no-repeat -48px -83px;
+                                background-position: -16px -83px;
+                                margin-right: 5px;
+                            }
+                            span {
+                                float: left;
+                                line-height: 18px;
+                                width: 210px;
+                                text-align: left;
+                                color: #666;
+                            }
+                        }
+                        #sub {
+                            &:hover {
+                                background: url("https://source.qunarzz.com/usercenter/login-left/pic_v4.png") no-repeat -248px 0;
+                            }
+                            border: 0;
+                            display: inline-block;
+                            background: url("https://source.qunarzz.com/usercenter/login-left/pic_v4.png") no-repeat 0 0;
+                            overflow: hidden;
+                            width: 249px;
+                            height: 30px;
+                            color: #fff;
+                            text-align: center;
+                            font: bold 14px/30px '宋体';
+                            outline: none;
+                            margin: 20px 0 0;
+                        }
+                        }
+                    }                  
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    .actives{
+                        display: block;
+                    }
+                    .ft_container {
+                        position: absolute;
+                        bottom: 0;
+                        width: 100%;
+                        .third_login {
+                            margin-left: -12px;
+                        }
+                        .left_line {
+                            width: 90px;
+                            height: 2px;
+                            background-color: #ebebeb;
+                            float: left;
+                            position: relative;
+                            top: 5px;
+                            font-size: 0;
+                            line-height: 2px;
+                        }
+                        .title {
+                            float: left;
+                            padding-left: 8px;
+                        }
+                        .right_line {
+                            margin-left: 8px;
+                            width: 90px;
+                            height: 2px;
+                            background-color: #ebebeb;
+                            float: left;
+                            position: relative;
+                            top: 5px;
+                            font-size: 0;
+                            line-height: 2px;
+                        }
+                    }
+                    .sina_tip {
+                        margin-left: -13px;
+                        padding: 10px 0 25px 0px;
+                        zoom: 1;
+                        margin-top: 10px;
+                        vertical-align: bottom;
+                        a {
+                            cursor: pointer;
+                            width: 48px;
+                            padding-left: 21px;
+                            display: inline-block;
+                            line-height: 24px;
+                            color: #555;
+                            background: url(https://user.qunar.com/images/ugc/ucenter/icons/login_link_icon.png) no-repeat;
+                            zoom: 1;
+                        }
+                        .login_wechat {
+                            background: url(https://source.qunarzz.com/usercenter/login/icon16_wx_logo.png) no-repeat;
+                            background-position: 0 5px;
+                        }
+                        .login_qq {
+                            background-position: 0 -142px;
+                        }
+                        .login_sina {
+                            width: 65px;
+                            background-position: 0 4px;
+                        }
+                        .login_baidu {
+                            background-position: 0 -26px;
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+
+.qn_footer {
+    clear: both;
+    margin: 0 auto;
+    padding: 15px 0 25px;
+    width: 979px;
+    line-height: 1.231;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    color: #848484;
+    position: relative;
+    z-index: 999;
+    .inner {
+        margin: 0 10px;
+        text-align: right;
+        .cr {
+            margin-right: 0;
+            padding-bottom: 11px;
+            text-align: center;
+            .links {
+                a {
+                    margin: 0 5px;
+                    text-decoration: none;
+                    color: #999;
+                    display: inline-block;
+                    height: 22px;
+                    line-height: 22px;
+                    white-space: nowrap;
+                }
+                margin: 0;
+                padding: 2px 0 0;
+                list-style: none;
+                color: #999;
+                display: block;
+                .fh-about {
+                    display: inline-block;
+                    width: 110px;
+                    text-align: left;
+                    border: 1px solid transparent;
+                    _border: 0;
+                    _padding: 1px;
+                    white-space: nowrap;
+                    a {
+                        margin: 0 5px;
+                        text-decoration: none;
+                        color: #999;
+                        display: inline-block;
+                        height: 22px;
+                        line-height: 22px;
+                        white-space: nowrap;
+                    }
+                }
+            }
+            .copyright {
+                padding: 7px 0 0;
+                line-height: 22px;
+                margin: 0;
+                span {
+                    margin-right: 7px;
+                    padding: 2px 0;
+                    color: #999;
+                    text-decoration: none;
+                }
+                a {
+                    margin-right: 7px;
+                    padding: 2px 0;
+                    color: #999;
+                    text-decoration: none;
+                }
+            }
+        }
+        .f_imglist {
+            margin-bottom: 10px;
+            ul {
+                width: 442px;
+                margin: 0 auto;
+                padding-bottom: 4px;
+                overflow: hidden;
+            }
+        }
+    }
+}
